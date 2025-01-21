@@ -3,9 +3,9 @@
 DockSense is a lightweight, open-source framework designed to simplify IoT device simulation and performance monitoring. It provides a pre-configured environment for MQTT messaging, real-time metrics collection, and interactive dashboards, making it ideal for testing IoT applications without the need for physical hardware.
 
 ## Features
-- 1. Pre-configured MQTT broker.
-- 2. Integrated Prometheus metrics.
-- 3.  Intuitive Grafana dashboards.
+-  Pre-configured MQTT broker.
+-  Integrated Prometheus metrics.
+-  Intuitive Grafana dashboards.
 
 ## Lets Get Started 
 Follow these steps to set up and run DockSense. After completing these steps, you will have access to tools for simulating IoT devices, visualizing real-time metrics in Grafana, and monitoring system performance using Prometheus. This allows you to test IoT applications and scenarios effectively without requiring physical hardware. 
@@ -18,7 +18,7 @@ cd DockSense`
 `docker build -t ns6819/docksense`
 
 ### Step 3: Start the Docker Compose Stack
-`docker build -t ns6819/docksense`
+`docker-compose up `
 
 ### Step 4: Access the Services
 
