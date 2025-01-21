@@ -5,7 +5,7 @@ DockSense is a lightweight, open-source framework designed to simplify IoT devic
 ## Features
 - 1. Pre-configured MQTT broker.
 - 2. Integrated Prometheus metrics.
-- 3. Intuitive Grafana dashboards.
+- 3.  Intuitive Grafana dashboards.
 
 ## Lets Get Started 
 Follow these steps to set up and run DockSense. After completing these steps, you will have access to tools for simulating IoT devices, visualizing real-time metrics in Grafana, and monitoring system performance using Prometheus. This allows you to test IoT applications and scenarios effectively without requiring physical hardware. 
