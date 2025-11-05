@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: DockSense
+  annotations:
+    github.com/project-slug: RedEye124/DockSense
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
